@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pydantic
+numpy
+pandas
+scikit-learn
+nltk
+
+# Additional dependencies (not installed in this environment but required in a full setup)
+feedparser
+sentence-transformers
+hdbscan
+sqlalchemy
+asyncpg
+python-multipart
+passlib[bcrypt]
+jwt
